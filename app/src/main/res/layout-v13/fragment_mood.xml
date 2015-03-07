@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffa5ffad"
+    android:clickable="false">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/imageView"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="0.2"
+        android:clickable="true" />
+
+    <TextView style="@android:style/TextAppearance.Large"
+        android:id="@+id/mood_text"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Mood"
+        android:gravity="center"
+        android:textAppearance="@android:style/TextAppearance.Holo.Large"
+        android:textStyle="bold"
+        android:layout_weight="0.8" />
+</LinearLayout>

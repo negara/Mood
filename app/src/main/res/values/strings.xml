@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Whats your mood?</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">تنظیمات</string>
+    <string name="mood1">شاد</string>
+    <string name="mood5">غمگین</string>
+    <string name="mood4">عصبانی</string>
+    <string name="mood3">بی‌تفاوت</string>
+    <string name="mood2">لبخند زنان</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">درباره‌ی ما</string>
+    <string name="report">گزارش دهی</string>
+    <string name="title_activity_add_info">AddInfoActivity</string>
+    <string name="what_mood">حال شما به صورت دقیق ‌تر چطور است؟ و چه نمره‌ای به آن می‌دهید؟</string>
+    <string name="other">سایر</string>
+    <string name="submit">تایید</string>
+    <string name="subMood">New Sub Mood</string>
+    <string name="moodDescribe">وضعیت خود را در ۱۰ حرف توصیف کنید</string>
+    <string name="about_us">در این برنامه شما قادر خواهید بود وضعیت حال خود را در بازه‌های زمانی مشخص وارد کنید تا در نهایت یک گزارش از حالت روحی خود دریافت کنید و برای بهبود وضعیت خود تلاش کنید. همچنین از این برنامه به عنوان یک دفتر خاطرات کوچک نیز می‌توانید استفاده کنید و یک خاطره‌ی کوتاه با یک عکس را نیز در آن ثبت کنید.</string>
+    <string name="notif">زمان‌بندی هشدارها</string>
+    <string name="upload">بارگذاری عکس</string>
+    <string name="no_notif">یادآوری نشود</string>
+    <string name="once_notif">روزانه یک بار</string>
+    <string name="times_notif">روزانه پنج بار یادآوری شود</string>
+    <string name="twice_notif">روزانه سه بار یادآوری شود</string>
+    <string name="title_activity_report">ReportActivity</string>
+    <string name="set_subMood">وضعیت روحی شما به صورت دقیق ثبت شد:</string>
+    <string name="cool">کول</string>
+    <string name="lol">قهقهه</string>
+    <string name="tongue">دلت بسوزه</string>
+    <string name="happy">شاد واقعی</string>
+    <string name="wink">خوبه داره می‌گذره</string>
+    <string name="confused">گیج</string>
+    <string name="question">پرسشگر</string>
+    <string name="crazy">خل</string>
+    <string name="nerd">درس خون</string>
+    <string name="sleeping">خوابالو</string>
+    <string name="surprised">متعحب</string>
+    <string name="cry">گریون</string>
+    <string name="angry">عصبانی</string>
+    <string name="sad">ناراحت</string>
+    <string name="store">اطلاعات شما ذخیره شد.</string>
+    <string name="name">نام خود را وارد کنید</string>
+    <string name="from">از</string>
+    <string name="to">تا</string>
+    <string name="showMoods">جزییات بیشتر</string>
+    <string name="pie">نمودار پراکندگی حال</string>
+    <string name="des_pie">وضعیت شما در بازه‌ی زمانی انتخاب شده</string>
+</resources>
