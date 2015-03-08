@@ -166,6 +166,8 @@ public class ReportActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_report);
 
+        System.out.println("Just for testing the git");
+
         buildRoot();
         this.whichDate = 0;
 
